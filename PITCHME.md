@@ -1,7 +1,6 @@
-@title[フロントエンドのお話]
 ---?image=assets/image/ivan_televnyy.jpg
 
-# フロントエンドのお話
+@title[フロントエンドのお話]
 
 ---?image=assets/image/lukas_blazek.jpg
 
