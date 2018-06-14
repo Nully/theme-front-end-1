@@ -2,21 +2,50 @@
 
 # フロントエンドの話
 
-vue-native環境をvimで
+vue-nativeの話
 
 ---?image=assets/image/lukas_blazek.jpg
 
-フロントエンドといってますが、ほぼvimとvue-nativeの話です。
+この話は「JavaScript」を使ってるのでフロントエンドです。
+
+※ 異論は認めない
 
 ---
 
-### what's vue-native?
+## what's vue-native?
 
 +++
 
 Vue.jsののシンタックスでネイティブアプリが開発できます。
 
 React-nativeと似た者同士。
+
++++
+
+（適当に）噛み砕くなら
+
+「HTML、JS、CSSだけでネイティブアプリが作れる」
+
++++
+
+### いいところ
+
+- aaa
+- bbb
+- cccc
+
++++
+
+### 悪いところ
+- aaa
+- bbb
+- cccc
+
+---?image=assets/image/maarten_deckers.jpg
+
+## vue-nativeのモチベーション
+
+
 
 ---?image=assets/image/maarten_deckers.jpg
 
