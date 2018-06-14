@@ -2,7 +2,7 @@
 
 # フロントエンドの話
 
-## vue-native環境をvimで。
+vue-native環境をvimで
 
 ---?image=assets/image/lukas_blazek.jpg
 
