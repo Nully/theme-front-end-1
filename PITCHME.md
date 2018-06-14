@@ -12,7 +12,7 @@ vue-nativeの話
 
 ---?image=assets/image/lukas_blazek.jpg
 
-## 話の対象
+## この話の対象者
 
 +++?image=assets/image/lukas_blazek.jpg
 
@@ -23,13 +23,21 @@ vue-nativeの話
 
 ---?image=assets/image/lukas_blazek.jpg
 
+## 今回話さないこと
+
+Vue.jsの詳細については話しません。
+
+知りたい方は別途学習してください。
+
+---?image=assets/image/lukas_blazek.jpg
+
 ## what's vue-native?
 
 +++?image=assets/image/lukas_blazek.jpg
 
-Vue.jsののシンタックスでネイティブアプリが開発できます。
+Vue.jsのシンタックスでネイティブアプリが開発できます。
 
-React-nativeと似た者同士。
+React Nativeと似た者同士。
 
 +++?image=assets/image/lukas_blazek.jpg
 
