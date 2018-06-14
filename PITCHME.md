@@ -10,7 +10,7 @@ vue-nativeの話
 
 ※ 異論は認めない
 
----
+---?image=assets/image/lukas_blazek.jpg
 
 ## 話の対象
 
@@ -21,7 +21,7 @@ vue-nativeの話
 エンジニア以外の方が聞いても大丈夫ですが
 ﾁﾝﾌﾟﾝｶﾝﾌﾟﾝになると思いますｗ
 
----
+---?image=assets/image/lukas_blazek.jpg
 
 ## what's vue-native?
 
@@ -39,20 +39,21 @@ React-nativeと似た者同士。
 
 +++
 
-### いいところ
+### メリット
 
-- aaa
-- bbb
-- cccc
+- フロントエンドエンジニアでもアプリが作れる
+- 使っている技術がHTML、JS、CSSなので学習コストが他に比べて格段に低い
+- vimでも開発できる（重要）
 
 +++
 
-### 悪いところ
-- aaa
-- bbb
-- cccc
+### デメリット
 
----?image=assets/image/maarten_deckers.jpg
+- Vue.js記法なのである程度慣れが必要
+- HTML、JS、CSSを知らないと作れない
+- vim以外でも開発できてしまう（さして重要ではない）
+
+---?image=assets/image/lukas_blazek.jpg
 
 ## vue-nativeのモチベーション
 
@@ -63,6 +64,9 @@ React-nativeと似た者同士。
 - 事前にVue.jsを触ってきた人？
 - 環境まで作ってきた人？
 - アプリ作ってきた人？
+
+---?image=assets/image/lukas_blazek.jpg
+
 
 ---?image=assets/image/maarten_deckers.jpg
 
