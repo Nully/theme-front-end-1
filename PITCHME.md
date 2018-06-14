@@ -14,7 +14,7 @@ vue-nativeの話
 
 ## 話の対象
 
-+++
++++?image=assets/image/lukas_blazek.jpg
 
 社内のエンジニア向けのスライドです。
 
