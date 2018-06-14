@@ -37,7 +37,7 @@ React-nativeと似た者同士。
 
 「HTML、JS、CSSだけでネイティブアプリが作れる」
 
-+++
++++?image=assets/image/lukas_blazek.jpg
 
 ### メリット
 
@@ -45,7 +45,7 @@ React-nativeと似た者同士。
 - 使っている技術がHTML、JS、CSSなので学習コストが他に比べて格段に低い
 - vimでも開発できる（重要）
 
-+++
++++?image=assets/image/lukas_blazek.jpg
 
 ### デメリット
 
