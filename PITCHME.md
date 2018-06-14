@@ -25,13 +25,13 @@ vue-nativeの話
 
 ## what's vue-native?
 
-+++
++++?image=assets/image/lukas_blazek.jpg
 
 Vue.jsののシンタックスでネイティブアプリが開発できます。
 
 React-nativeと似た者同士。
 
-+++
++++?image=assets/image/lukas_blazek.jpg
 
 （適当に）噛み砕くなら
 
@@ -57,13 +57,16 @@ React-nativeと似た者同士。
 
 ## vue-nativeのモチベーション
 
-+++
++++?image=assets/image/lukas_blazek.jpg
 
 ### 本題に入る前に
 
 - 事前にVue.jsを触ってきた人？
 - 環境まで作ってきた人？
 - アプリ作ってきた人？
+
++++?image=assets/image/lukas_blazek.jpg
+
 
 ---?image=assets/image/lukas_blazek.jpg
 
