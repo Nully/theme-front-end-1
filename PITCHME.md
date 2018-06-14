@@ -62,8 +62,19 @@ React-nativeと似た者同士。
 ### 本題に入る前に
 
 - 事前にVue.jsを触ってきた人？
-- 環境まで作ってきた人？
-- アプリ作ってきた人？
+- Vue.jsの環境まで作ってきた人？
+- Vue-nativeでアプリ作ってきた人？
+
++++?image=assets/image/lukas_blazek.jpg
+
+Vue.jsでできることはほぼできる
+
+- ルーティング
+- Templateによる開発
+- Vuexによるstate管理
+- きれいな見た目
+
+※ というか基礎がVueなのでできないと困る
 
 +++?image=assets/image/lukas_blazek.jpg
 
