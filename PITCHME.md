@@ -2,7 +2,7 @@
 
 # フロントエンドの話
 
-vue-nativeの話
+Vue Nativeのはなし
 
 ---?image=assets/image/lukas_blazek.jpg
 
@@ -19,7 +19,7 @@ vue-nativeの話
 社内のエンジニア向けのスライドです。
 
 エンジニア以外の方が聞いても大丈夫ですが
-ﾁﾝﾌﾟﾝｶﾝﾌﾟﾝになると思いますｗ
+ﾁﾝﾌﾟﾝｶﾝﾌﾟﾝになると思います。
 
 ---?image=assets/image/lukas_blazek.jpg
 
@@ -31,7 +31,7 @@ Vue.jsの詳細については話しません。
 
 ---?image=assets/image/lukas_blazek.jpg
 
-## what's vue-native?
+## what's Vue Native?
 
 +++?image=assets/image/lukas_blazek.jpg
 
@@ -63,36 +63,73 @@ React Nativeと似た者同士。
 
 ---?image=assets/image/lukas_blazek.jpg
 
-## vue-nativeのモチベーション
+## Vue Nativeへの期待
 
 +++?image=assets/image/lukas_blazek.jpg
 
 ### 本題に入る前に
 
-- 事前にVue.jsを触ってきた人？
-- Vue.jsの環境まで作ってきた人？
-- Vue-nativeでアプリ作ってきた人？
+- Vue Nativeについて調べてきた人？
+- Vue Nativeの環境を作ってきた人？
+- Vue Nativeでアプリ作ってきた人？
+- Vue Nativeの動作原理まで調べてきた人？
 
 +++?image=assets/image/lukas_blazek.jpg
 
-Vue.jsでできることはほぼできる
+ここまででやってきてたら優秀なエンジニアだと思います。
+
+- Vue Nativeについて調べてきた人？
+- Vue Nativeの環境を作ってきた人？
+- Vue Nativeでアプリ作ってきた人？ ← ココ
+- Vue Nativeの動作原理まで調べてきた人？
+
++++?image=assets/image/lukas_blazek.jpg
+
+Vue.jsの機能を使って実装していくのが基本
 
 - ルーティング
 - Templateによる開発
 - Vuexによるstate管理
 - きれいな見た目
 
-※ というか基礎がVueなのでできないと困る
-
 +++?image=assets/image/lukas_blazek.jpg
 
+1ソースマルチユースなので、iOSもAndroidも両方まとめて作れる。
 
 ---?image=assets/image/lukas_blazek.jpg
 
+そういえば、エンジニアといえば
+キーボードですよね。
 
 ---?image=assets/image/maarten_deckers.jpg
 
-## test
+# What's Keyboard ?
+
+---?image=assets/image/lukas_blazek.jpg
+
+いくつか種類がある
+
+- メンブレン
+- パンダグラフ
+- メカニカル
+- 静電容量無接点方式
+
+---?image=assets/image/maarten_deckers.jpg
+
+# メンブレン
+
+---?image=assets/image/maarten_deckers.jpg
+
+# パンタグラフ
+
+---?image=assets/image/maarten_deckers.jpg
+
+# メカニカル
+
+---?image=assets/image/maarten_deckers.jpg
+
+# 静電容量無接点方式
+
 
 ---?image=assets/image/gitpitch-audience.jpg
 
