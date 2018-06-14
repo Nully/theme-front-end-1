@@ -1,8 +1,6 @@
 ---?image=assets/image/ivan_televnyy.jpg
 
-# フロントエンドの話
-
-Vue Nativeのはなし
+# フロントエンド
 
 ---?image=assets/image/lukas_blazek.jpg
 
