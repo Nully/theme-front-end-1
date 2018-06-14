@@ -2,6 +2,8 @@
 
 # フロントエンドの話
 
+## vue-native環境をvimで。
+
 ---?image=assets/image/lukas_blazek.jpg
 
 ## 自己紹介
