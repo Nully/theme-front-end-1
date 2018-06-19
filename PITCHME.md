@@ -99,7 +99,7 @@ React Nativeと似た者同士。
 - メカニカル
 - 静電容量無接点方式
 
-+++?image=assets/image/lukas_blazek.jpg
+---?image=assets/image/lukas_blazek.jpg
 
 # メンブレン
 
