@@ -99,11 +99,11 @@ React Nativeと似た者同士。
 - メカニカル
 - 静電容量無接点方式
 
-+++?image=assets/image/maarten_deckers.jpg
++++?image=assets/image/lukas_blazek.jpg
 
 # メンブレン
 
----?image=assets/image/maarten_deckers.jpg
++++?image=assets/image/lukas_blazek.jpg
 
 ## 特徴
 
@@ -111,17 +111,47 @@ React Nativeと似た者同士。
 - 押した際のフィードバックが非常に小さい
 - 最近では滅多にお目にかかることはなくなってきた
 
-+++?image=assets/image/maarten_deckers.jpg
+---?image=assets/image/maarten_deckers.jpg
 
 # パンタグラフ
 
-+++?image=assets/image/maarten_deckers.jpg
++++?image=assets/image/lukas_blazek.jpg
+
+## 特徴
+
+- パンタグラフ方式のスプリングを採用したキーボード
+- 比較的安価に作れる
+- 現在のPCのほぼ全てに採用されている（ノート、BTO両方）
+- メンブレンに比べて押しやすく打ち間違えが少ない
+
+---?image=assets/image/maarten_deckers.jpg
+
+# 静電容量無接点方式
+
++++?image=assets/image/lukas_blazek.jpg
+
+## 特徴
+
+- 静電容量の変化で入力を検知する
+- 機械接点がないため耐久度が高い
+- 基本的に価格が高い
+
++++?image=assets/image/lukas_blazek.jpg
+
+## 代表キーボード
+
+- Realforce
+- PFU HHK
+- PFU Limited Edition
+
+---?image=assets/image/maarten_deckers.jpg
 
 # メカニカル
 
-+++?image=assets/image/maarten_deckers.jpg
++++?image=assets/image/lukas_blazek.jpg
 
-# 静電容量無接点方式
+## 特徴
+
 
 +++?image=assets/image/gitpitch-audience.jpg
 
