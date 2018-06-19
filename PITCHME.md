@@ -81,22 +81,9 @@ React Nativeと似た者同士。
 - Vue Nativeでアプリ作ってきた人？ ← ココ
 - Vue Nativeの動作原理まで調べてきた人？
 
-+++?image=assets/image/lukas_blazek.jpg
-
-Vue.jsの機能を使って実装していくのが基本
-
-- ルーティング
-- Templateによる開発
-- Vuexによるstate管理
-- きれいな見た目
-
-+++?image=assets/image/lukas_blazek.jpg
-
-1ソースマルチユースなので、iOSもAndroidも両方まとめて作れる。
-
 ---?image=assets/image/lukas_blazek.jpg
 
-そういえば、エンジニアといえば
+エンジニアといえば
 キーボードですよね。
 
 ---?image=assets/image/maarten_deckers.jpg
@@ -112,24 +99,31 @@ Vue.jsの機能を使って実装していくのが基本
 - メカニカル
 - 静電容量無接点方式
 
----?image=assets/image/maarten_deckers.jpg
++++?image=assets/image/maarten_deckers.jpg
 
 # メンブレン
 
 ---?image=assets/image/maarten_deckers.jpg
 
+## 特徴
+
+- 製造コストが安い
+- 押した際のフィードバックが非常に小さい
+- 最近では滅多にお目にかかることはなくなってきた
+
++++?image=assets/image/maarten_deckers.jpg
+
 # パンタグラフ
 
----?image=assets/image/maarten_deckers.jpg
++++?image=assets/image/maarten_deckers.jpg
 
 # メカニカル
 
----?image=assets/image/maarten_deckers.jpg
++++?image=assets/image/maarten_deckers.jpg
 
 # 静電容量無接点方式
 
-
----?image=assets/image/gitpitch-audience.jpg
++++?image=assets/image/gitpitch-audience.jpg
 
 
 
