@@ -177,7 +177,31 @@ React Nativeと似た者同士。
 
 +++?image=assets/image/lukas_blazek.jpg
 
+パーツだけで言ってもこんだけ存在している。
+
++++?image=assets/image/lukas_blazek.jpg
+
+パーツの数だけオリジナリティが出せる。
+
++++?image=assets/image/lukas_blazek.jpg
+
 ## ケース
+
+- アルミ
+- プラスチック
+
+基本この2種類から選択。
+
++++?image=assets/image/lukas_blazek.jpg
+
+- アルミは見た目はかっこいいが「重い」
+- プラスチックは見た目がダサいが「軽く」LEDが透過される
+
+といった一長一短がある。
+
++++?image=assets/image/lukas_blazek.jpg
+
+
 
 +++?image=assets/image/lukas_blazek.jpg
 
