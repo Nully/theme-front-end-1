@@ -213,6 +213,10 @@ React Nativeと似た者同士。
 
 +++?image=assets/image/lukas_blazek.jpg
 
+他にも木製やコンクリ製など殺傷能力の高いものもあったりします。
+
++++?image=assets/image/lukas_blazek.jpg
+
 ## プレート
 
 このパーツ自体はPCBボードに差し込むスイッチが動かないようにするためのもの。
@@ -266,7 +270,7 @@ React Nativeと似た者同士。
 
 +++?image=assets/image/lukas_blazek.jpg
 
-![スイッチ](assets/images/switch.png)
+![スイッチ](assets/image/switch.png)
 
 これでもまだ一部。
 
@@ -297,13 +301,43 @@ React Nativeと似た者同士。
 
 +++?image=assets/image/lukas_blazek.jpg
 
-![キースイッチの音比べ](https://www.youtube.com/watch?v=L-xfY66-EsA)
+![キースイッチの音比べ](https://www.youtube.com/embed/L-xfY66-EsA)
 
 ひたすら聞くべし
 
 +++?image=assets/image/lukas_blazek.jpg
 
 ## キーキャップ
+
+- レーザー刻印
+- 無刻印
+- 3Dプリンタで自作する
+
+キーキャップにも様々種類があります。
+
++++?image=assets/image/lukas_blazek.jpg
+
+市販のものでも可愛いものやきれいなもの、キャラ物などたくさんあります。
+
++++?image=assets/image/lukas_blazek.jpg
+
+![キャップ](assets/image/cap1.png)
+
++++?image=assets/image/lukas_blazek.jpg
+
+![キャップ](assets/image/cap2.jpg)
+
++++?image=assets/image/lukas_blazek.jpg
+
+![キャップ](assets/image/cap3.png)
+
++++?image=assets/image/lukas_blazek.jpg
+
+キャップだけでもこれだけ種類があるので
+
+一つのモチベーションアップ効果も。
+
+※ 取替可能
 
 +++?image=assets/image/lukas_blazek.jpg
 
