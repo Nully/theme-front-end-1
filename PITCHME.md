@@ -201,7 +201,15 @@ React Nativeと似た者同士。
 
 +++?image=assets/image/lukas_blazek.jpg
 
+<img src="https://github.com/Nully/theme-front-end-1/blob/master/assets/image/case1.jpg" width="250" />
 
+アルミケース
+
++++?image=assets/image/lukas_blazek.jpg
+
+<img src="https://github.com/Nully/theme-front-end-1/blob/master/assets/image/case2.jpg" width="250" />
+
+プラスチックケース
 
 +++?image=assets/image/lukas_blazek.jpg
 
