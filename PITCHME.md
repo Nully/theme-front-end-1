@@ -96,8 +96,8 @@ React Nativeと似た者同士。
 
 - メンブレン
 - パンダグラフ
-- メカニカル
 - 静電容量無接点方式
+- メカニカル
 
 ---?image=assets/image/maarten_deckers.jpg
 
@@ -138,7 +138,7 @@ React Nativeと似た者同士。
 
 +++?image=assets/image/lukas_blazek.jpg
 
-## 代表キーボード
+## 代表製品
 
 - Realforce
 - PFU HHK
@@ -152,6 +152,52 @@ React Nativeと似た者同士。
 
 ## 特徴
 
+- キースイッチが独立している
+- 入力時に軽快な音を奏でられる
+- 他のキーボードに比べて疲れにくい
+- **自作可能**
+
++++?image=assets/image/lukas_blazek.jpg
+
+## 自作？
+
+キーボードのパーツすべてがパーツ単位で購入可能。
+そのため、市販にはないオリジナリティを追求できる。
+
++++?image=assets/image/lukas_blazek.jpg
+
+## 構成パーツ
+
+- ケース（外側）
+- プレート
+- PCBボード
+- キースイッチ
+- キーキャップ
+- LED （オプション）
+
++++?image=assets/image/lukas_blazek.jpg
+
+## ケース
+
++++?image=assets/image/lukas_blazek.jpg
+
+## プレート
+
++++?image=assets/image/lukas_blazek.jpg
+
+## PCBボード
+
++++?image=assets/image/lukas_blazek.jpg
+
+## キースイッチ
+
++++?image=assets/image/lukas_blazek.jpg
+
+## キーキャップ
+
++++?image=assets/image/lukas_blazek.jpg
+
+## LED
 
 +++?image=assets/image/gitpitch-audience.jpg
 
