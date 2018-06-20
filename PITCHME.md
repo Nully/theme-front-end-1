@@ -353,7 +353,7 @@ LEDも自分の好きな色を発色させることが可能。
 
 +++?image=assets/image/lukas_blazek.jpg
 
-![LED](assets/image/led.png)
+![LED](assets/image/led.jpg)
 
 +++?image=assets/image/felicia_d_ascanio.jpg
 
