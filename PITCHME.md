@@ -357,9 +357,9 @@ LEDも自分の好きな色を発色させることが可能。
 
 +++?image=assets/image/felicia_d_ascanio.jpg
 
-# どうです
+## どうです
 
-# 作りたくなってきたでしょう？
+## 作りたくなってきたでしょう？
 
 +++?image=assets/image/lukas_blazek.jpg
 
@@ -371,6 +371,6 @@ LEDも自分の好きな色を発色させることが可能。
 
 https://connpass.com/event/90642/
 
-+++?image=assets/image/gitpitch-audience.jpg
+---?image=assets/image/gitpitch-audience.jpg
 
-## ご清聴ありがとうございました
+# ご清聴ありがとうございました
