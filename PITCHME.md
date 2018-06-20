@@ -357,15 +357,15 @@ LEDも自分の好きな色を発色させることが可能。
 
 +++?image=assets/image/felicia_d_ascanio.jpg
 
-どうです
+# どうです
 
-作りたくなってきたでしょう？
+# 作りたくなってきたでしょう？
 
 +++?image=assets/image/lukas_blazek.jpg
 
 # 告知
 
-実はこんなイベントやります。
+## 実はこんなイベントやります。
 
 +++?image=assets/image/lukas_blazek.jpg
 
