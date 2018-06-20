@@ -236,9 +236,70 @@ React Nativeと似た者同士。
 
 ## PCBボード
 
+いわゆるプリント基板だが、サイズ感がたくさんある。
+
++++?image=assets/image/lukas_blazek.jpg
+
+- 75%サイズ
+- 66%サイズ
+- 60%サイズ
+- 45%サイズ
+
+などなど...
+
++++?image=assets/image/lukas_blazek.jpg
+
+「45%サイズ」とか本当に使う人がいるのか不明。
+
+大体の人が作っているのが60%〜66%程度のサイズ
+
++++?image=assets/image/lukas_blazek.jpg
+
+![PCBボード](assets/image/board.jpg)
+
 +++?image=assets/image/lukas_blazek.jpg
 
 ## キースイッチ
+
+重さや軸の色で「音」や「入力感」が変わる
+キーボードのコアと言っても過言ではない
+
++++?image=assets/image/lukas_blazek.jpg
+
+![スイッチ](assets/images/switch.png)
+
+これでもまだ一部。
+
+全量は[こちら](https://mechanicalkeyboards.com/mechanical_switches.php)
+
++++?image=assets/image/lukas_blazek.jpg
+
+### なぜコアか？
+
+キーボードは「押す」もので、長時間利用することがほとんどです。
+
+長時間利用するのであれば、「軽快に入力できる且つ疲れにくいもの」
+
+が条件になってきます。
+
++++?image=assets/image/lukas_blazek.jpg
+
+「45g」などの表記があったりしますが、これは「押下圧」を示します。
+
+この押下圧はキーを押すときの強さと反発力を表します。
+
+この数値が大きいほど強く入力する必要がある。
+
++++?image=assets/image/lukas_blazek.jpg
+
+この「押下圧」と「音」の双方が自分にとって心地いいものを探します。
+これはたっぷり時間をかけて探す必要があります。
+
++++?image=assets/image/lukas_blazek.jpg
+
+![キースイッチの音比べ](https://www.youtube.com/watch?v=L-xfY66-EsA)
+
+ひたすら聞くべし
 
 +++?image=assets/image/lukas_blazek.jpg
 
