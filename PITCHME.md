@@ -201,19 +201,36 @@ React Nativeと似た者同士。
 
 +++?image=assets/image/lukas_blazek.jpg
 
-<img src="https://github.com/Nully/theme-front-end-1/blob/master/assets/image/case1.jpg" width="250" />
+![アルミケース](assets/image/case1.jpg)
 
 アルミケース
 
 +++?image=assets/image/lukas_blazek.jpg
 
-<img src="https://github.com/Nully/theme-front-end-1/blob/master/assets/image/case2.jpg" width="250" />
+![プラスチックケース](assets/image/case2.jpg)
 
 プラスチックケース
 
 +++?image=assets/image/lukas_blazek.jpg
 
 ## プレート
+
+このパーツ自体はPCBボードに差し込むスイッチが動かないようにするためのもの。
+
+これもプラスチックとアルミなどがある。
+
++++?image=assets/image/lukas_blazek.jpg
+
+色も多彩にあり、キーキャップの間からも見えたりするので、ちょっとオサレにも。
+
++++?image=assets/image/lukas_blazek.jpg
+
+![アルミ](assets/image/plate1.jpg)
+
++++?image=assets/image/lukas_blazek.jpg
+
+![プラスチック](assets/image/plate2.jpg)
+
 
 +++?image=assets/image/lukas_blazek.jpg
 
