@@ -343,7 +343,34 @@ React Nativeと似た者同士。
 
 ## LED
 
+完全にオプションで欲しい場合はつけることも可能。
+
++++?image=assets/image/lukas_blazek.jpg
+
+LEDも自分の好きな色を発色させることが可能。
+
+※ 対応したLEDを買う必要あり
+
++++?image=assets/image/lukas_blazek.jpg
+
+![LED](assets/image/led.png)
+
++++?image=assets/image/felicia_d_ascanio.jpg
+
+どうです
+
+作りたくなってきたでしょう？
+
++++?image=assets/image/lukas_blazek.jpg
+
+# 告知
+
+実はこんなイベントやります。
+
++++?image=assets/image/lukas_blazek.jpg
+
+https://connpass.com/event/90642/
+
 +++?image=assets/image/gitpitch-audience.jpg
 
-
-
+## ご清聴ありがとうございました
